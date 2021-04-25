@@ -1,0 +1,9 @@
+body {
+  background-color: brown;
+  color: #fff;
+}
+.closed {
+  margin-top: 10%;
+  text-align: center;
+  color: black;
+}
